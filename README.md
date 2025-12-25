@@ -80,9 +80,6 @@ f1_end: Macro F1 score for predicted vs true end positions
 ## 🚀 Inference (PyTorch)
 Example:
 
-python
-Copy
-Edit
 Question: "What is east of the hallway?"
 Context: "The kitchen is east of the hallway. The garden is south of the bedroom."
 Output: "kitchen"
@@ -105,10 +102,6 @@ matplotlib
 
 Install with:
 
-bash
-Copy
-Edit
-
 pip install transformers datasets tensorflow torch scikit-learn matplotlib
 
 ## 📁 Project Structure
@@ -130,10 +123,6 @@ Edit
 ##📜 License
 This project is released for educational and research use. Please refer to original licensing terms of the bAbI dataset and Hugging Face Transformers.
 
-yaml
-Copy
-Edit
 
 ---
 
-✅ Want me to generate the `train_tensorflow.py` or `train_pytorch.py` as standalone scripts next?
